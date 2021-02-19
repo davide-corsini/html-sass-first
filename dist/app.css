@@ -1,0 +1,21 @@
+body {
+    background-color: yellow;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header, footer {
+    height: 100px;
+    background-color: green;
+}
+
+main {
+    background-color: orange;
+    color: pink;
+    font-size: 50px;
+    text-transform: uppercase;
+}
